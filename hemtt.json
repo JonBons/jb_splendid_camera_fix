@@ -1,0 +1,9 @@
+{
+  "name": "jb_splendid_camera_fix",
+  "prefix": "jb",
+  "author": "JonBons",
+  "version": "1.0.0",
+  "modname": "jb_splendid_camera_fix",
+  "keyname": "jb_splendid_camera_fix_{{version}}",
+  "signame": "jb_splendid_camera_fix_{{version}}"
+}
